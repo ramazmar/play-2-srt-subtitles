@@ -4,7 +4,7 @@ Play 2 srt subtitles
 Linux Perl script to play two srt subtitles at the same time.
 The script convert the two srt subtitles to sass format, and plays the film.
 
-![ScreenShot](https://github.com/ramazmar/my-videos/raw/master/play-2-srts.gif)
+![ScreenShot](https://github.com/ramazmar/my-videos/raw/master/play-two-srts.gif)
 
 ### Configuration
 User configuration variables under 'User adaptable variables'.
